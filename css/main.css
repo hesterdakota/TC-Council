@@ -31,9 +31,17 @@
 	color: white;
 	z-index: -20;
 	height: 75px;
-
 }
 .unav li	{
 	color: white;
 	display: inline;
+}
+.slides_container {
+	width:520;
+	height:270px;
+}
+.slides_container div {
+	width:520;
+	height:270px;
+	display:block;
 }
